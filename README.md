@@ -2,10 +2,10 @@
 This project is to demonstrate the basic of IAM security through usage of rules and policies.
 
 # Main Goals:
-💻 Launching of EC2 instances.
-🏷️ Using tags for easy identification.
-💂 Set up IAM policies accessing EC2 instances based on the environment (development or production).
-👩‍👩‍👧‍👧 Create an IAM user and assign them to the appropriate user group with the necessary permissions for their role.
+💻 Launching of EC2 instances. <br>
+🏷️ Using tags for easy identification.<br>
+💂 Set up IAM policies accessing EC2 instances based on the environment (development or production).<br>
+👩‍👩‍👧‍👧 Create an IAM user and assign them to the appropriate user group with the necessary permissions for their role.<br>
 🔓 Test IAM access for the User you've created.
 
 # Introduction
